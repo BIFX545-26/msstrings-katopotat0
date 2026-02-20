@@ -35,3 +35,4 @@ frags[3] <- str_replace(frags[3], 'Q', 'Q[Deamidation (Q)]')
 MSfrags <- paste0('_', frags, '_')
 
 usethis::use_data(MSfrags)
+
