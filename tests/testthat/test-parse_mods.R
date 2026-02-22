@@ -1,5 +1,4 @@
 library(testthat)
-library(parseMSstrings)
 data("MSfrags", overwrite = TRUE )
 
 test_that("parse_mods works", {
