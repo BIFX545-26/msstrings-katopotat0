@@ -1,6 +1,6 @@
 library(testthat)
 
-data("MSfrags")
+data("MSfrags", overwrite = TRUE )
 
 test_that("parse_mods works", {
     tmp <- parse_mods(MSfrags[1])

@@ -62,4 +62,4 @@ parse_mods <- function(seqs, format = 'Spectronaut')
 
   return(retval)
 }
-check
+

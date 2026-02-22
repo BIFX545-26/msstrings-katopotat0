@@ -3,8 +3,8 @@
 #' print.protein_mods
 #' Print method for protein_mods objects
 #'
-#' @param x A `protein_mods` object to print
-#' @param ... other arguments passed to or from `print`
+#' @param A `protein_mods` object to print
+#' @param other arguments passed to or from `print`
 #'
 #' @export
 #' @method print protein_mods
