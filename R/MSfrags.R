@@ -4,6 +4,7 @@
 #' Sample peptide fragments in Sprectronaut format
 #' @format A vector for sample peptide fragments with protein modifications
 #' @source These fragments were generated from P51681 (for details see...)
+#' @export
 "MSfrags"
 
 library(UniProt.ws)
