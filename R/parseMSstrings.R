@@ -17,10 +17,6 @@
 #'@importFrom stringr str_extract_all str_replace_all str_split
 
 
-
-
-
-
 parse_mods <- function(seqs, format = 'Spectronaut')
 {
   # remove '_'
