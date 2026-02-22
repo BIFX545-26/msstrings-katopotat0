@@ -1,10 +1,5 @@
 # MSfrags.R
 # This contains code to create some sample data to go with our package
-#'MSfrags
-#' Sample peptide fragments in Sprectronaut format
-#' @format A vector for sample peptide fragments with protein modifications
-#' @source These fragments were generated from P51681 (for details see...)
-"MSfrags"
 
 library(UniProt.ws)
 library(Biostrings)
